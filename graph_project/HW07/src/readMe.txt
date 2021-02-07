@@ -1,0 +1,3 @@
+-Tanýmlanmamýz  istenilen methodlarý methodlarýn altýnda methods class ý içersinde tanýmladým. 
+-Kitap kodlarýný KW altýnda topladým. 
+-Q1,Q2 ve Q3 te ise ödev pdf inde belirtilen formatta graph üzerinde istenilen methodlarý çaðýrdým main kodlarý bulunmaktadýr.
