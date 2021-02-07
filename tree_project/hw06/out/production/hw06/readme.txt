@@ -1,0 +1,1 @@
+Kitaptan hazýr kodlarýný çektiðimiz ve avlTree, btree ve redblach tree'yi implement ederken türediðimiz temel classlarý ve implement ettiðimiz interfaceleri KW'nin içine ayýrdým.Bu þekilde part package içlerinde karmaþýklýk olmadý.
